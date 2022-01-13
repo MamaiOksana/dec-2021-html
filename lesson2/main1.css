@@ -1,0 +1,67 @@
+html {
+    background-color: aliceblue;
+}
+.target{
+    background: #d38011;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    box-sizing: border-box;
+    padding: 40px;
+    border: 2px solid black;
+    box-shadow: black 15px 15px 0px 5px;
+}
+.target2{
+    background: #d38011;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    box-sizing: border-box;
+    padding: 40px;
+    border: 2px solid black;
+    box-shadow: black 15px 15px 5px 5px;
+}
+.target3{
+    background: #d38011;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    box-sizing: border-box;
+    padding: 40px;
+    border: 2px solid black;
+    box-shadow: black 15px 15px 10px 10px;
+}
+.target4{
+    background: #d38011;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    box-sizing: border-box;
+    padding: 40px;
+    border: 2px solid black;
+    box-shadow: silver 15px 15px 10px 10px;
+
+}
+.target5{
+    background: #d38011;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    box-sizing: border-box;
+    padding: 40px;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: black 15px 15px 5px 5px;
+
+}
+.target6{
+    background: #d38011;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    box-sizing: border-box;
+    padding: 40px;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: silver 15px 15px 5px 5px;
+}

@@ -1,0 +1,33 @@
+.one{
+    box-sizing: border-box;
+background-color: #882726;
+    color: #f9ead6;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.two{
+    box-sizing: border-box;
+    padding: 10px;
+background: #bfbfbf;
+    height: 70px;
+}
+.three{
+    box-sizing: border-box;
+    padding: 40px 0px;
+background: #6394eb;
+    height: 100px;
+}
+.four{
+    box-sizing: border-box;
+background: #6bb967;
+    width: 200px;
+    height: 200px;
+
+}
+.five{
+    box-sizing: border-box;
+background: #8785aa;
+    height: 200px;
+    width: 200px;
+    border-radius: 15px;
+}
