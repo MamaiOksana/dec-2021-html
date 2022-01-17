@@ -1,0 +1,52 @@
+.maimBig{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+}
+.maim{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    height: 320px;
+    width: 425px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.a{
+    width: 415px;
+    height: 100px;
+    background: #d8d8d8;
+    text-align: center;
+    color: black;
+    box-sizing: border-box;
+    padding-top: 40px;
+    margin-top: 5px;
+}
+.many{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: 210px;
+    width: 310px;
+    margin-top: 5px;
+}
+.b, .c, .d, .e, .f, .g{
+    height: 100px;
+    width: 100px;
+    background: #d8d8d8;
+    text-align: center;
+    color: black;
+    box-sizing: border-box;
+    padding-top: 40px;
+}
+.h{
+    height: 205px;
+    width: 100px;
+    background: #d8d8d8;
+    text-align: center;
+    color: black;
+    box-sizing: border-box;
+    padding-top: 90px;
+    margin-top: 5px;
+}
