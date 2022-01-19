@@ -1,0 +1,55 @@
+.maimBig{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+}
+.maim{
+    justify-content: space-evenly;
+    height: 325px;
+    width: 425px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.a{
+    margin-top: 6px;
+}
+.many{
+    justify-content: space-between;
+    height: 210px;
+    width: 310px;
+}
+.h1{
+    height: 100px;
+}
+.h2{
+    height: 205px;
+}
+.w1{
+    width: 415px;
+}
+.w2{
+    width: 100px;
+}
+.text{
+    text-align: center;
+}
+.pad-g1{
+    box-sizing: border-box;
+    padding-top: 40px;
+}
+.pad-g2{
+    box-sizing: border-box;
+    padding-top: 90px;
+}
+.color1{
+background: #d7d7d7
+}
+.color2{
+   background: #fdfdfe;
+}
+
