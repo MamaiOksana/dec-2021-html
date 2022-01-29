@@ -1,0 +1,223 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --black-color: #000;
+}
+.wrapper{
+    width: 1440px;
+    height: 83px;
+    margin: 0 auto;
+}
+.nav_menu_item a{
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--black-color);
+    text-decoration: none;
+}
+.flex{
+    display: flex;
+    align-items: center;
+}
+.top_bar{
+    justify-content: space-between;
+}
+.header_logo{
+    padding: 15px 170px 31px 36px;
+}
+.menu1{
+    padding-right: 48px;
+}
+.menu2{
+    padding-right: 56px;
+}
+.menu3{
+    padding-right: 177px;
+}
+.menu4{
+    padding-right: 24px;
+}
+.mark{
+    box-sizing: border-box;
+    padding-left: 8px;
+}
+.button1 {
+    width: 163px;
+    height: 54px;
+    background: #0b2330;
+    color: #fdfdfe;
+    box-sizing: border-box;
+    border: 1px solid #0B2330;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: box-shadow .50s;
+}
+.button1:hover{
+    -webkit-box-shadow: 0px 0px 15px 5px #000000;
+    box-shadow: 0px 0px 15px 5px #000000;
+}
+.blok1{
+    height: 256px;
+    width: 436px;
+    margin-left: 147px;
+    font-size: 60px;
+}
+.blok2{
+    height: 96px;
+    width: 435px;
+    margin-top: 42px;
+    margin-left: 147px;
+    font-size: 22px;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+}
+.button2{
+    width: 163px;
+    height: 54px;
+    background: #F9C600;
+    border: 1px solid #F9C600;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-left: 147px;
+    margin-top: 18px;
+    transition: box-shadow .50s;
+}
+.button2:hover{
+    -webkit-box-shadow: 0px 0px 15px 5px #000000;
+    box-shadow: 0px 0px 15px 5px #000000;
+}
+.button3{
+    width: 156px;
+    height: 54px;
+    border: 1px solid #0B2330;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-left: 16px;
+    transition: box-shadow .50s;
+}
+.button3:hover{
+    -webkit-box-shadow: 0px 0px 15px 5px #000000;
+    box-shadow: 0px 0px 15px 5px #000000;
+}
+.rec-le{
+    position: absolute;
+    margin-left: 257px;
+}
+.frame{
+    position: relative;
+    margin: 152px -102px 173px 147px;
+}
+.photo{
+    display: flex;
+    flex-wrap: wrap;
+    height: 886px;
+    width: 710px;
+}
+.text{
+    text-align: center;
+    align-items: center;
+    width: 547px;
+    height: 96px;
+    font-size: 42px;
+    margin-top: 189px;
+    margin-right: 446px;
+    margin-left: 447px;
+    }
+.companies{
+    margin: 59px 149px 192px 148px;
+}
+.green{
+    display: flex;
+    height: 494px;
+    width: 1376px;
+    background: #51cdbb;
+    border-radius: 10px;
+    margin-right: 32px;
+    margin-bottom: 191px;
+    margin-left: 32px;
+}
+.blokLeft{
+    width: 678px;
+    height: 381px;
+    margin-top: 56px;
+    margin-bottom: 57px;
+}
+.text2{
+    height: 120px;
+    width: 557px;
+    font-size: 34px;
+    margin: 114px 121px 35px 20px;
+}
+.text3{
+    height: 64px;
+    width: 533px;
+    font-size: 22px;
+    margin: 35px 145px 161px 20px;
+}
+.text4{
+    text-align: center;
+    align-items: center;
+    width: 711px;
+    height: 80px;
+    font-size: 34px;
+    margin-right: 364px;
+    margin-bottom: 57px;
+    margin-left: 365px;
+}
+.example{
+    margin-right: 264px;
+    margin-bottom: 113px;
+    margin-left: 265px;
+}
+.button4{
+    text-align: center;
+    height: 54px;
+    width: 163px;
+    background: #F9C600;
+    border: 1px solid #F9C600;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-right: 639px;
+    margin-bottom: 160px;
+    margin-left: 638px;
+    transition: box-shadow .50s;
+}
+.button4:hover{
+    -webkit-box-shadow: 0px 0px 15px 5px #000000;
+    box-shadow: 0px 0px 15px 5px #000000;
+}
+.purple{
+    position: absolute;
+    display: flex;
+    height: 537px;
+    width: 1260px;
+    background: #bc78ef;
+    border-radius: 10px;
+    margin-right: 32px;
+    margin-left: 148px;
+}
+.blokLeft2{
+    position: relative;
+    height: 409px;
+    width: 562px;
+    margin: 64px 136px 64px -116px;
+    background: transparent;
+}
+.target{
+    height: 192px;
+    width: 485px;
+    margin-top: 103px;
+    margin-right: 136px;
+    font-size: 42px;
+}
+.text5{
+    height: 56px;
+    width: 550px;
+    font-size: 17px;
+    line height: 28px;
+    margin-top: 39px;
+}
