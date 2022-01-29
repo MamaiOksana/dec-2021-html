@@ -55,16 +55,16 @@
     transition: box-shadow .50s;
 }
 .button1:hover{
-    -webkit-box-shadow: 0px 0px 15px 5px #000000;
-    box-shadow: 0px 0px 15px 5px #000000;
+    -webkit-box-shadow: 0 0 15px 5px #000000;
+    box-shadow: 0 0 15px 5px #000000;
 }
-.blok1{
+.block1{
     height: 256px;
     width: 436px;
     margin-left: 147px;
     font-size: 60px;
 }
-.blok2{
+.block2{
     height: 96px;
     width: 435px;
     margin-top: 42px;
@@ -87,8 +87,8 @@
     transition: box-shadow .50s;
 }
 .button2:hover{
-    -webkit-box-shadow: 0px 0px 15px 5px #000000;
-    box-shadow: 0px 0px 15px 5px #000000;
+    -webkit-box-shadow: 0 0 15px 5px #000000;
+    box-shadow: 0 0 15px 5px #000000;
 }
 .button3{
     width: 156px;
@@ -100,8 +100,8 @@
     transition: box-shadow .50s;
 }
 .button3:hover{
-    -webkit-box-shadow: 0px 0px 15px 5px #000000;
-    box-shadow: 0px 0px 15px 5px #000000;
+    -webkit-box-shadow: 0 0 15px 5px #000000;
+    box-shadow: 0 0 15px 5px #000000;
 }
 .rec-le{
     position: absolute;
@@ -140,7 +140,7 @@
     margin-bottom: 191px;
     margin-left: 32px;
 }
-.blokLeft{
+.blockLeft{
     width: 678px;
     height: 381px;
     margin-top: 56px;
@@ -187,8 +187,8 @@
     transition: box-shadow .50s;
 }
 .button4:hover{
-    -webkit-box-shadow: 0px 0px 15px 5px #000000;
-    box-shadow: 0px 0px 15px 5px #000000;
+    -webkit-box-shadow: 0 0 15px 5px #000000;
+    box-shadow: 0 0 15px 5px #000000;
 }
 .purple{
     position: absolute;
@@ -201,7 +201,7 @@
     margin-left: 148px;
 }
 
-.blokLeft2{
+.blockLeft2{
     position: relative;
     height: 409px;
     width: 562px;
@@ -219,6 +219,5 @@
     height: 56px;
     width: 550px;
     font-size: 17px;
-    line height: 28px;
     margin-top: 39px;
 }
